@@ -2,7 +2,7 @@
 Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of [K-means clustering](https://data-flair.training/blogs/k-means-clustering-tutorial/) which is the essential algorithm for clustering unlabeled dataset. Before ahead in this project, learn what actually customer segmentation is.<br>
 ![seg](https://user-images.githubusercontent.com/90209933/147927776-948a9af0-18bb-49ac-bbc0-30efd2790649.png)
 
-### What is Customer Segmentation
+### What is Customer Segmentation?
 Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.<br>
 
 Companies that deploy customer segmentation are under the notion that every customer has different requirements and require a specific marketing effort to address them appropriately. Companies aim to gain a deeper approach of the customer they are targeting. Therefore, their aim has to be specific and should be tailored to address the requirements of each and every individual customer. Furthermore, through the data collected, companies can gain a deeper understanding of customer preferences as well as the requirements for discovering valuable segments that would reap them maximum profit. This way, they can strategize their marketing techniques more efficiently and minimize the possibility of risk to their investment.<br>
